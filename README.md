@@ -1,3 +1,6 @@
 # vk-emotion-map
 
-Подклчили backand
+Подключили backand:
+https://github.com/olader09/donate
+
+Приложение принимает посты с сервера.
