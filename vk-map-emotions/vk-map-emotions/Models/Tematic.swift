@@ -49,9 +49,8 @@ enum Subject: String {
         case .humor:  return "😀"
         case .films:  return "📽"
         case .photo:  return "📷"
-        case .science:  return "💡"
+        case .science:  return "🚀"
         case .art:  return "🖼"
-        default: return "🚀"
         }
     }
     

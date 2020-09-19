@@ -49,7 +49,7 @@
                                                         <nil key="textColor"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
-                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fsy-z5-I4B">
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Сегодня" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fsy-z5-I4B">
                                                         <rect key="frame" x="0.0" y="18" width="244" height="14.5"/>
                                                         <fontDescription key="fontDescription" name="SFProDisplay-Regular" family="SF Pro Display" pointSize="12"/>
                                                         <color key="textColor" red="0.50552350280000002" green="0.5491905212" blue="0.60000598429999996" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -118,7 +118,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="width" constant="44" id="Xht-eD-cE6"/>
                                                 </constraints>
-                                                <state key="normal" title="65" image="heart"/>
+                                                <state key="normal" image="heart"/>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6FY-51-yrP">
                                                 <rect key="frame" x="44" y="0.0" width="44" height="44"/>
